@@ -1,0 +1,62 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+.kapsayıcı1{
+    height: 300px;
+    background-color: rgb(255, 179, 0); 
+}
+.baslik h2{
+    text-align: center;
+    justify-content: center;
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+.s1{
+    width: 100%;
+}
+#kap{
+    width: 100%;
+    margin-left: 20px;
+}
+#yapılacak{
+    width: 90%;
+    float: left;
+}
+#kaydet{
+    width: 10%;
+    float: left;
+    text-align: center;
+}
+#yolla{
+    width: 100%;
+    text-align: center;
+}
+.container2{
+    background-color: white;
+    height: 700px;
+    padding-top: 5px;
+}
+.kapsayıcı3{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    
+   
+}
+#List{
+    width: 100%;
+}
+#sil{
+    position: absolute;
+    left: 90%;
+}
+#alert{
+    width: 200px;
+    height: 100px;
+    position:fixed;
+    left: 85%;
+}
+
